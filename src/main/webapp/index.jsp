@@ -1,0 +1,1 @@
+<%@ page contentType="text/html;charset=UTF-8" %><link rel="stylesheet" href="css/style.css"><main><h1>Student Attendance & Academic Performance</h1><a href="login.jsp">Faculty Login</a></main>
